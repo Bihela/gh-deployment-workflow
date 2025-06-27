@@ -1,16 +1,33 @@
 baseURL = "https://bihela.github.io/gh-deployment-workflow/"
 languageCode = "en-us"
-title = "My DevOps Portfolio"
+title = "Bihela's DevOps Portfolio"
 theme = "gokarna"
 
 [params]
   description = "Portfolio showcasing my DevOps projects and skills"
-  avatarURL = "/images/avatar.jpg" # Place an image in static/images/avatar.jpg
-  avatarSize = "size-m" # Optional: Gokarna-specific size setting
-  showSidebar = true # Enable sidebar for navigation
+  avatarURL = "/images/avatar.jpg"
+  avatarSize = "size-m"
+  showSidebar = true
   socialIcons = [
     { name = "github", url = "https://github.com/Bihela" },
     { name = "linkedin", url = "https://linkedin.com/in/bihela" }
   ]
   footer = "Built with Hugo and Gokarna | Hosted on GitHub Pages"
-  accentColor = "#007bff" 
+  accentColor = "#007bff"
+  showPostsOnHomePage = "recent"
+  enableSearch = true
+  themeStyle = "dark" # Enable default dark mode
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/posts/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/posts/about/"
+    weight = 3

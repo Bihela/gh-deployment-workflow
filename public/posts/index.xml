@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My DevOps Portfolio</title>
-    <link>http://localhost:1313/gh-deployment-workflow/posts/</link>
-    <description>Recent content in Posts on My DevOps Portfolio</description>
+    <title>Posts on Bihela&#39;s DevOps Portfolio</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Bihela&#39;s DevOps Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/gh-deployment-workflow/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 13:45:00 +0530</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/gh-deployment-workflow/posts/about/</link>
+      <title>My DevOps Projects</title>
+      <link>/posts/projects/</link>
+      <pubDate>Fri, 27 Jun 2025 13:45:00 +0530</pubDate>
+      <guid>/posts/projects/</guid>
+      <description>&lt;h1 id=&#34;my-devops-projects&#34;&gt;My DevOps Projects&lt;/h1&gt;&#xA;&lt;p&gt;Below is a collection of 22 projects showcasing my expertise in DevOps, including CI/CD pipelines, containerization, cloud infrastructure, and automation. Each project is hosted on GitHub.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CI/CD Pipeline with GitHub Actions&lt;/strong&gt;&lt;br&gt;&#xA;Automated Docker image builds and deployments to AWS ECS using GitHub Actions.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/cicd-pipeline&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kubernetes Cluster on AWS&lt;/strong&gt;&lt;br&gt;&#xA;Deployed a scalable Kubernetes cluster using Terraform, with Helm for package management.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/k8s-aws&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ansible Server Provisioning&lt;/strong&gt;&lt;br&gt;&#xA;Automated provisioning of a multi-node environment using Ansible playbooks.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/ansible-provisioning&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>/posts/about/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/gh-deployment-workflow/posts/about/</guid>
+      <guid>/posts/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/gh-deployment-workflow/posts/contact/</link>
+      <link>/posts/contact/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/gh-deployment-workflow/posts/contact/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/gh-deployment-workflow/posts/projects/</link>
-      <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/gh-deployment-workflow/posts/projects/</guid>
+      <guid>/posts/contact/</guid>
       <description></description>
     </item>
   </channel>
