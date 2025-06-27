@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My DevOps Portfolio</title>
-    <link>http://localhost:1313/%3Crepository-name%3E/</link>
-    <description>Recent content on My DevOps Portfolio</description>
+    <title>Welcome to My DevOps Portfolio on My DevOps Portfolio</title>
+    <link>http://localhost:1313/gh-deployment-workflow/</link>
+    <description>Recent content in Welcome to My DevOps Portfolio on My DevOps Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/%3Crepository-name%3E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gh-deployment-workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/%3Crepository-name%3E/posts/about/</link>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/about/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/%3Crepository-name%3E/posts/about/</guid>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/%3Crepository-name%3E/posts/contact/</link>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/contact/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/%3Crepository-name%3E/posts/contact/</guid>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/%3Crepository-name%3E/posts/projects/</link>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/projects/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>http://localhost:1313/%3Crepository-name%3E/posts/projects/</guid>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/projects/</guid>
       <description></description>
     </item>
   </channel>

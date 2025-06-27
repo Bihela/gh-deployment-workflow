@@ -1,13 +1,16 @@
-baseURL = "https://Bihela.github.io/<repository-name>/" # Update later with your GitHub Pages URL
+baseURL = "https://bihela.github.io/gh-deployment-workflow/"
 languageCode = "en-us"
 title = "My DevOps Portfolio"
 theme = "gokarna"
 
 [params]
   description = "Portfolio showcasing my DevOps projects and skills"
-  avatarURL = "/images/avatar.jpg" # Add an avatar image in the static folder
+  avatarURL = "/images/avatar.jpg" # Place an image in static/images/avatar.jpg
+  avatarSize = "size-m" # Optional: Gokarna-specific size setting
+  showSidebar = true # Enable sidebar for navigation
   socialIcons = [
     { name = "github", url = "https://github.com/Bihela" },
     { name = "linkedin", url = "https://linkedin.com/in/bihela" }
   ]
   footer = "Built with Hugo and Gokarna | Hosted on GitHub Pages"
+  accentColor = "#007bff" 
