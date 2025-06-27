@@ -5,7 +5,7 @@ theme = "gokarna"
 
 [params]
   description = "Portfolio showcasing my DevOps projects and skills"
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "images/avatar.jpg"
   avatarSize = "size-m"
   showSidebar = true
   socialIcons = [
@@ -14,7 +14,6 @@ theme = "gokarna"
   ]
   footer = "Built with Hugo and Gokarna | Hosted on GitHub Pages"
   accentColor = "#007bff"
-  showPostsOnHomePage = "recent"
   enableSearch = true
   themeStyle = "dark" # Enable default dark mode
 

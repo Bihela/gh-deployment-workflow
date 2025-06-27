@@ -14,11 +14,6 @@ I'm a passionate DevOps engineer specializing in **CI/CD pipelines**, **containe
 - **Containerize Applications**: Orchestrate containers with Docker and Kubernetes for high availability.
 - **Monitor Systems**: Implement monitoring solutions with Prometheus and Grafana.
 
-## Explore My Work
-Dive into my [Projects](/posts/projects/) to see real-world examples of my DevOps solutions, from automated deployments to scalable cloud architectures.
-
-## Connect with Me
-Reach out on [GitHub](https://github.com/Bihela) or [LinkedIn](https://linkedin.com/in/bihela) to discuss DevOps, collaboration, or opportunities!
 
 ---
 *Built with Hugo and Gokarna. Hosted on GitHub Pages.*

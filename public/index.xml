@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Bihela&#39;s DevOps Portfolio on Bihela&#39;s DevOps Portfolio</title>
-    <link>/</link>
+    <link>http://localhost:1313/gh-deployment-workflow/</link>
     <description>Recent content in Welcome to Bihela&#39;s DevOps Portfolio on Bihela&#39;s DevOps Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2025 13:45:00 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gh-deployment-workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My DevOps Projects</title>
-      <link>/posts/projects/</link>
+      <title></title>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/projects/</link>
       <pubDate>Fri, 27 Jun 2025 13:45:00 +0530</pubDate>
-      <guid>/posts/projects/</guid>
-      <description>&lt;h1 id=&#34;my-devops-projects&#34;&gt;My DevOps Projects&lt;/h1&gt;&#xA;&lt;p&gt;Below is a collection of 22 projects showcasing my expertise in DevOps, including CI/CD pipelines, containerization, cloud infrastructure, and automation. Each project is hosted on GitHub.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CI/CD Pipeline with GitHub Actions&lt;/strong&gt;&lt;br&gt;&#xA;Automated Docker image builds and deployments to AWS ECS using GitHub Actions.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/cicd-pipeline&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kubernetes Cluster on AWS&lt;/strong&gt;&lt;br&gt;&#xA;Deployed a scalable Kubernetes cluster using Terraform, with Helm for package management.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/k8s-aws&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ansible Server Provisioning&lt;/strong&gt;&lt;br&gt;&#xA;Automated provisioning of a multi-node environment using Ansible playbooks.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/ansible-provisioning&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/projects/</guid>
+      <description>&lt;h1 id=&#34;my-devops-projects&#34;&gt;My DevOps Projects&lt;/h1&gt;&#xA;&lt;p&gt;Below is a collection of 22 projects showcasing my expertise in DevOps, including CI/CD pipelines, containerization, cloud infrastructure, and automation. Each project is hosted on GitHub.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;NGINX Deployment&lt;/strong&gt;&lt;br&gt;&#xA;NGINX Deployment with Uptime Monitoring for Websites using Docker Compose&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/nginx-test&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Server Performance Stats&lt;/strong&gt;&lt;br&gt;&#xA;Script to analyse basic server performance stats.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/Server-Performance-Stats&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Log Archive Tool&lt;/strong&gt;&lt;br&gt;&#xA;Build a tool to archive logs from the CLI with the date and time. User get Email alerts  on the arhieve&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Bihela/Log-Archive-Tool&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>/posts/about/</link>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/about/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>/posts/about/</guid>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/posts/contact/</link>
+      <link>http://localhost:1313/gh-deployment-workflow/posts/contact/</link>
       <pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate>
-      <guid>/posts/contact/</guid>
+      <guid>http://localhost:1313/gh-deployment-workflow/posts/contact/</guid>
       <description></description>
     </item>
   </channel>
