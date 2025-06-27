@@ -1,0 +1,13 @@
+baseURL = "https://Bihela.github.io/<repository-name>/" # Update later with your GitHub Pages URL
+languageCode = "en-us"
+title = "My DevOps Portfolio"
+theme = "gokarna"
+
+[params]
+  description = "Portfolio showcasing my DevOps projects and skills"
+  avatarURL = "/images/avatar.jpg" # Add an avatar image in the static folder
+  socialIcons = [
+    { name = "github", url = "https://github.com/Bihela" },
+    { name = "linkedin", url = "https://linkedin.com/in/bihela" }
+  ]
+  footer = "Built with Hugo and Gokarna | Hosted on GitHub Pages"
