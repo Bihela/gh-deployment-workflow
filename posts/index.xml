@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Bihela's DevOps Portfolio</title><link>https://bihela.github.io/posts/</link><description>Recent content in Posts on Bihela's DevOps Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 13:45:00 +0530</lastBuildDate><atom:link href="https://bihela.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://bihela.github.io/posts/projects/</link><pubDate>Fri, 27 Jun 2025 13:45:00 +0530</pubDate><guid>https://bihela.github.io/posts/projects/</guid><description>&lt;h1 id="my-devops-projects">My DevOps Projects&lt;/h1>
+&lt;p>Below is a collection of 22 projects showcasing my expertise in DevOps, including CI/CD pipelines, containerization, cloud infrastructure, and automation. Each project is hosted on GitHub.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>NGINX Deployment&lt;/strong>&lt;br>
+NGINX Deployment with Uptime Monitoring for Websites using Docker Compose&lt;br>
+&lt;a href="https://github.com/Bihela/nginx-test">View on GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Server Performance Stats&lt;/strong>&lt;br>
+Script to analyse basic server performance stats.&lt;br>
+&lt;a href="https://github.com/Bihela/Server-Performance-Stats">View on GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Log Archive Tool&lt;/strong>&lt;br>
+Build a tool to archive logs from the CLI with the date and time. User get Email alerts on the arhieve&lt;br>
+&lt;a href="https://github.com/Bihela/Log-Archive-Tool">View on GitHub&lt;/a>&lt;/p></description></item><item><title>About Me</title><link>https://bihela.github.io/posts/about/</link><pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate><guid>https://bihela.github.io/posts/about/</guid><description/></item><item><title>Contact</title><link>https://bihela.github.io/posts/contact/</link><pubDate>Thu, 26 Jun 2025 15:07:18 +0530</pubDate><guid>https://bihela.github.io/posts/contact/</guid><description/></item></channel></rss>
