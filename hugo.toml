@@ -1,4 +1,4 @@
-baseURL = "https://bihela.github.io/gh-deployment-workflow/"
+baseURL = "https://bihela.github.io/"
 languageCode = "en-us"
 title = "Bihela's DevOps Portfolio"
 theme = "gokarna"
